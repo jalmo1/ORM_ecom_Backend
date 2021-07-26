@@ -8,7 +8,7 @@
   - [Contributors](#contributors)
   - [Contact](#contact)
 
-  # ORM Ecommerce Backend with mysql/sequelize
+  # ORM Ecommerce Backend server with mysql/sequelize
 
   ## Description:
   This server side application is an app that is used to track data of products in different categories with the tags of those items attached to them 
