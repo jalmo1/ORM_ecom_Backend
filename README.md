@@ -13,11 +13,11 @@
   ## Description:
   This server side application is an app that is used to track data of products in different categories with the tags of those items attached to them 
   ## Video:
-walkthrough for set up and categories => https://drive.google.com/file/d/1UfdwYGmE4OZUY3wyjXgXGOC5S0mRjv4r/view
+walkthrough for set up and category route => https://drive.google.com/file/d/1UfdwYGmE4OZUY3wyjXgXGOC5S0mRjv4r/view
 
-walkthrough for products => https://drive.google.com/file/d/1b79GCNaORnz8eZT49bGbpQpZLLv-7bu6/view
+walkthrough for product routes => https://drive.google.com/file/d/1b79GCNaORnz8eZT49bGbpQpZLLv-7bu6/view
 
-walkthrough for tags => https://drive.google.com/file/d/1_GNDvQwNEIBVW-dtPnaYMLhSyo9fG1Ex/view
+walkthrough for tag routes => https://drive.google.com/file/d/1_GNDvQwNEIBVW-dtPnaYMLhSyo9fG1Ex/view
 
   ## Test:
   No tests for this application!
